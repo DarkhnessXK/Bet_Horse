@@ -1,0 +1,9 @@
+[Seção] ← Seção Determinada
+Nome=Singelo ← Valor da chave
+ ↑
+Chave
+
+[Seção2] ← Seção Determinada
+Dinheiro=1.000.000 ← Valor da chave
+ ↑
+Chave
